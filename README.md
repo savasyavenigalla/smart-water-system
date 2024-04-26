@@ -36,4 +36,11 @@ The Smart Water Level Management System is a project aimed at automating the ref
 
 [Watch the demo video](https://drive.google.com/file/d/1sLQjN3sKWsUDiInLERMFxNUoDE2apIY-/view?usp=sharing)
 
+## Contributors
+
+- [Sowmya Venigalla](https://github.com/savasyavenigalla)
+- [Akshaya Bysani](https://github.com/Akshaya8583)
+- [Varsha Yamsani]
+- [Sukeerthi Ponasanapalli]
+- [Shreeya H]
 
